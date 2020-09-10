@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Tech Lead on Bankly, a Brasilian Banking as a Service plaform.
+- 🔭 I’m currently working as Tech Lead on [Bankly](https://bankly.com.br), a Brasilian Banking as a Service platform.
 
 - 👯 I’m collaborate to develop the [Amaury](https://github.com/acessocard/amaury) a open source lib from Event Driven Abstraction 
 
-
-
+![LinkedIn](https://github.com/fernandoseguim/fernandoseguim/raw/master/images/linked-in-icon.png) https://www.linkedin.com/in/fernandoseguim/
 
 
 <!--
