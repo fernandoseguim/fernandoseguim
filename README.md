@@ -7,16 +7,6 @@
 [![Blog](https://img.shields.io/badge/-Medium-12100E?style=flat-square&labelColor=12100E&logo=medium&logoColor=white&link=https://medium.com/seguim)](https://medium.com/seguim)
 
 
-## Hi there!! <img src="https://github.com/fernandoseguim/fernandoseguim/blob/master/images/hi.gif" width="22px">
-
-I'm Fernando Seguim, back-end developer who ventures into Frontend. Enthusiastic about software engineering, agile development and entrepreneurship. I write code in C #, JavaScript and am learning about F # to improve my functional programming skills. Community leader and supporter of causes that involve diversity, mainly in the IT sector.
-
----
-
-- 🔭 I’m currently working as Tech Lead on [Bankly](https://bankly.com.br), a Brasilian Banking as a Service platform.
-
-- 👯 I’m collaborate to develop the [Amaury](https://github.com/acessocard/amaury) a open source lib from Event Driven Abstraction.
-
 ---
 
 <details>
